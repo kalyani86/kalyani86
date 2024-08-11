@@ -1,4 +1,5 @@
 # 💫 About Me:
+I am third year student of computer science at pune institute of computer technology.
 I am a fullstack web developer<br>Al/ML  enthusiastic
 
 
