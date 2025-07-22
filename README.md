@@ -1,5 +1,5 @@
 # 💫 About Me:
-  I am third year student of computer science department at pune institute of computer technology<br>I am a fullStack developer.
+  I am fourth year student of computer science department at pune institute of computer technology<br>I am a fullStack developer.
 
 
 ## 🌐 Socials:
